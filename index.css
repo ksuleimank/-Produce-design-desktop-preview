@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+body{
+    background-color:hsl(30, 38%, 92%);
+}
+
+ .text h4{
+
+color: gray;
+font-family:Helvetica Neue;
+font-style: italic;
+
+ }
+.container{
+width: 600px;
+background-color: white;
+height: 400px;
+border: 20px;
+border-radius: 5px;
+margin-left: 350px;
+margin-top: 80px;
+padding: 10px 0px 0px 10px
+
+}
+.text{
+
+    float: right;
+    padding-left: 300px;
+    margin-top: -300px;
+    font-size:14px ;
+    
+}
+
+.text h1{
+    font-family: Tahoma;
+    font-weight: 500;
+    font-style: bold;
+}
+
+.text p{
+    font-family: monospace;
+    font-weight: 500;
+    color: gray;
+}
+
+.text span{
+    font-family:  Georgia;
+    font-weight: 100;
+    font-style: bold;
+    color: hsl(158, 36%, 37%) ;
+    font-size: 1.4rem;
+    font-style: italic;
+    
+    
+}
+
+.text i{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: bold;
+    color: gray;
+    font-size: x-small;
+    text-decoration: line-through;
+}
+
+.text button{
+    font-family:  Georgia;
+    background-color: hsl(158, 36%, 37%) ;
+    font-size: 0.9rem;
+    border: none;
+    padding: 10px 42px;
+    text-align: center;
+    display: inline-block;
+    color: white;
+    border-radius: 12px;
+    margin-top: 30px;
+
+}
+
+    
+#icon{
+    color: aqua;
+   padding-right: 2PX;
+   
+}
